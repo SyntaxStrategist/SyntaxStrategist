@@ -14,7 +14,6 @@ Hello! I'm Michael, also known as **SyntaxStrategist**. I'm passionate about tec
 ## Skills
 
 - Proficient in HTML, CSS, and C++
-- Experienced with Amazon FBA project management
 - Strong problem-solving abilities
 - Excellent communication and teamwork skills
 
